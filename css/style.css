@@ -135,7 +135,6 @@ img {
     }
 }
 
-
 @media screen and (max-width: 480px) {
     .row {
         flex-wrap: wrap;
@@ -151,5 +150,8 @@ img {
     }
     .why-us .col-right {
         width: 100%;
+    }
+    .why-us .container {
+        background-color: #222222;
     }
 }
